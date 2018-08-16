@@ -244,12 +244,12 @@
     "width": 1921,
     "height": 969 
 },
-  "olm": {
-    "name": "olm.png",
-    "x": 2785,
-    "y": 159,
-    "width": 48,
-    "height": 37 
+  "cbf": {
+    "name": "cbf.png",
+    "x": 3885,
+    "y": 2885,
+    "width": 200,
+    "height": 288 
 },
   "cp": {
     "name": "cp.png",
