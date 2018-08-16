@@ -244,12 +244,12 @@
     "width": 1921,
     "height": 969 
 },
-  "cbf": {
-    "name": "cbf.png",
+  "cbff": {
+    "name": "cbff.png",
     "x": 3885,
     "y": 2885,
-    "width": 200,
-    "height": 288 
+    "width": 148,
+    "height": 215 
 },
   "cp": {
     "name": "cp.png",
